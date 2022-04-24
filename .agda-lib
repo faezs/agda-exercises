@@ -1,0 +1,5 @@
+name: agda-exercises
+include:
+  src
+depend:
+  standard-library
