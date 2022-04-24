@@ -1,3 +1,6 @@
+*.agdai
+.direnv
+src/MAlonzo
 dist
 dist-*
 cabal-dev
